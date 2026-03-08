@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CourierService.Console/CourierService.Console.csproj" />
+  <Project Path="CourierService.Domain/CourierService.Domain.csproj" />
+  <Project Path="CourierService.Offers/CourierService.Offers.csproj" />
+  <Project Path="CourierService.Services/CourierService.Services.csproj" />
+  <Project Path="CourierService.Tests/CourierService.Tests.csproj" />
+</Solution>
